@@ -1,6 +1,23 @@
 body img{
     max-width: 100%;
 }
+body{
+    background-color: white;
+}
 /* .univ-lille img{
     max-width: 100%;
 } */
+body{
+    margin: 5%;
+    padding: 1%;
+    align-items: center;
+}
+header img{
+    width: 80px;
+    height: 90px;
+    border-radius: 8%;
+}
+main img{
+    width: 30%;
+    height: auto;
+}
