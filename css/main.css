@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@300,400;1,300&family=Oswald:wght@300&display=swap');
-body img{
+/* body img{
     max-width: 100%;
+    width: 80px;
+    height: 90px;
+    border-radius: 8%;
 }
 body{
     background-color: white;
@@ -9,17 +12,45 @@ body{
 /* .univ-lille img{
     max-width: 100%;
 } */
-body{
+/* body{
     margin: 5%;
     padding: 1%;
     align-items: center;
 }
-header img{
-    width: 80px;
-    height: 90px;
-    border-radius: 8%;
+h1{
+    background-color: #fff;
+    align-items: center;
 }
-main img{
-    width: 25%;
-    height: auto;
+h2,h3,h4{
+    text-align: center;
+}
+.identite{
+    
+}
+h1{
+    text-align: center;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}  */
+:root{
+    background-color: black;
+    color: white;
+}
+body img{
+    max-width: 100%;
+    height: 60px;
+}
+body{
+    text-justify: inherit;
+    background: url();
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
 }
