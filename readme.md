@@ -1,2 +1,6 @@
-Hello, bienvenue sur mon portfolio. 
-Je suis étudiant en BTS SIO (Service Informatique aux Organisations) à ITIC Paris. 
+Salut, 
+
+Bienvenue sur mon portfolio. 
+
+Je m'appelle MODZINU Kofi Stephane et je suis étudiant en BTS SIO (Service Informatique aux Organisations) à l'ITIC Paris. 
+
