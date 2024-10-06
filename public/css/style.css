@@ -1,6 +1,26 @@
-body{
-    max-width: 100%;
+/* @import url(./reset.css); */
+:root{
+    --primary-color: #fafafa;
+    --secondary-color: #D1D0BF;
+
 }
+body {
+    max-width: 100%;
+    font: 1.6rem "Open Sans", sans-serif;
+    background-color: var(--secondary-color);
+  }
 h1{
     text-align: center;
 }
+h1 img{
+    width: 10%;
+    border-radius: 40px;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    border-radius: 30px;
+    background-color: var(--primary-color);
+    
+}
+
