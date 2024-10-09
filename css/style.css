@@ -9,18 +9,48 @@ body {
     font: 1.6rem "Open Sans", sans-serif;
     background-color: var(--secondary-color);
   }
-h1{
+  /* section{
+    padding: 50px;
+  } */
+.acceuil{
+    padding: 50px;
+    margin-bottom: 150px;
+  }
+h1,h2{
     text-align: center;
 }
 h1 img{
     width: 10%;
     border-radius: 40px;
 }
-.container{
+.menu{
     display: flex;
     justify-content:space-around;
     border-radius: 30px;
     background-color: var(--primary-color);
     
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    width: 15%;
+    border-radius: 30px;
+    font-weight: bolder;
+}
+p{
+    width: 60%;
+    text-align: center;
+}
+.card{
+    display: flex;
+    align-items: center;
+    padding: 100px;
+}
+.toolscard{
+    padding: 70px;
+    display: flex;
+    justify-content: space-between;
 }
 
